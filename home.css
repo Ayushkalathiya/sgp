@@ -1,0 +1,14 @@
+.header{
+    background-color: beige;
+}
+
+.body{
+    background-color: gainsboro
+}
+.menu{
+    font-size : 18px;
+   
+}
+.menu li a{
+    color: black;
+}
